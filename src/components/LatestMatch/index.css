@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.latest-match-card {
+  width: 100%;
+  background-color: #1e293b;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  list-style-type: none;
+}
+
+.competiting-team-logo {
+  height: 200px;
+  width: 200px;
+}
+h1 {
+  font-size: 20px;
+  font-weight: 200;
+}
+p {
+  font-size: 15px;
+  font-weight: 200;
+}
